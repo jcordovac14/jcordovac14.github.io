@@ -106,23 +106,23 @@ Este proyecto fortaleció mi capacidad para detectar inconsistencias en códigos
 **Capturas del proyecto:**  
 
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_4.PNG" target="_blank">
-    <img src="assets/img/urban_4.PNG" alt="Urban 4" width="500"/>
+  <a href="assets/img/urban_4.png" target="_blank">
+    <img src="assets/img/urban_4.png" alt="Urban 4" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_2.PNG" target="_blank">
-    <img src="assets/img/urban_2.PNG" alt="Urban 4" width="500"/>
+  <a href="assets/img/urban_2.png" target="_blank">
+    <img src="assets/img/urban_2.png" alt="Urban 4" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_3.PNG" target="_blank">
-    <img src="assets/img/urban_3.PNG" alt="Urban 4" width="500"/>
+  <a href="assets/img/urban_3.png" target="_blank">
+    <img src="assets/img/urban_3.png" alt="Urban 4" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_1.PNG" target="_blank">
-    <img src="assets/img/urban_1.PNG" alt="Urban 4" width="500"/>
+  <a href="assets/img/urban_1.png" target="_blank">
+    <img src="assets/img/urban_1.png" alt="Urban 4" width="500"/>
   </a>  
 </div>
 
@@ -151,23 +151,23 @@ Apliqué técnicas de **Partición de Equivalencias** y **Análisis de Valores L
 **Capturas del proyecto:**  
 
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes1.PNG" target="_blank">
-    <img src="assets/img/urban_routes1.PNG" alt="Urban routes" width="500"/>
+  <a href="assets/img/urban_routes1.png" target="_blank">
+    <img src="assets/img/urban_routes1.png" alt="Urban routes" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes2.PNG" target="_blank">
-    <img src="assets/img/urban_routes2.PNG" alt="Urban routes" width="500"/>
+  <a href="assets/img/urban_routes2.png" target="_blank">
+    <img src="assets/img/urban_routes2.png" alt="Urban routes" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes3.PNG" target="_blank">
-    <img src="assets/img/urban_routes3.PNG" alt="Urban routes" width="500"/>
+  <a href="assets/img/urban_routes3.png" target="_blank">
+    <img src="assets/img/urban_routes3.png" alt="Urban routes" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes4.PNG" target="_blank">
-    <img src="assets/img/urban_routes4.PNG" alt="Urban routes" width="500"/>
+  <a href="assets/img/urban_routes4.png" target="_blank">
+    <img src="assets/img/urban_routes4.png" alt="Urban routes" width="500"/>
   </a>  
 </div>
 ---
