@@ -1,0 +1,8 @@
+title: "Jesus Cordova Castillo"
+logo: /assets/img/alm2.png
+description: "Bienvenido a mi portafolio de proyectos como QA Engineer."
+
+#show_downloads: true
+#google_analytics:
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
